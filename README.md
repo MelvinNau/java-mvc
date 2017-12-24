@@ -1,4 +1,4 @@
-# java-mvc
+# Draw Line Neon edition
 
 Jeu programmé en *JAVAFX* sur *Netbeans* en utilisant pour la premiere fois le
 *MVC Strict*
