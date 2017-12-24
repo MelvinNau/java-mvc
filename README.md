@@ -1,6 +1,6 @@
 # java-mvc
 
-Jeu programmé en *JAVAFX* sur *Netbeans* en utilisant pour la premiere le
+Jeu programmé en *JAVAFX* sur *Netbeans* en utilisant pour la premiere fois le
 *MVC Strict*
 
 * Bug génant: affichage se refaisant à chaques fois, donc ralentissement sur
